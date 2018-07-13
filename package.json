@@ -6,6 +6,9 @@
   "directories": {
     "lib": "lib"
   },
+  "scripts": {
+    "test": "istanbul cover --include-all-sources --root ./lib/ jasmine.js"
+  },
   "dependencies": {
     "lodash": "4.17.10"
   },
@@ -23,5 +26,10 @@
   "bugs": {
     "url": "https://github.com/Neatoro/sorter/issues"
   },
-  "homepage": "https://github.com/Neatoro/sorter#readme"
+  "homepage": "https://github.com/Neatoro/sorter#readme",
+  "devDependencies": {
+    "istanbul": "^0.4.5",
+    "jasmine": "^3.1.0",
+    "jasmine-console-reporter": "^3.0.2"
+  }
 }
