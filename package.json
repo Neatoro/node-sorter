@@ -1,5 +1,5 @@
 {
-  "name": "sorter",
+  "name": "node-sorter",
   "version": "1.0.1",
   "description": "A simple sorting library for JavaScript",
   "main": "index.js",
