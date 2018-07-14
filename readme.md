@@ -1,5 +1,7 @@
 # Sorter
 
+[![Build Status](https://travis-ci.org/Neatoro/node-sorter.svg?branch=master)](https://travis-ci.org/Neatoro/node-sorter)
+
 This is a small and simple sorting library for JavaScript. It supports current the following sorting algorithms:
 * Bubblesort
 * Insertionsort
