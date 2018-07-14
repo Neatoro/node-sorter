@@ -9,9 +9,7 @@
   "scripts": {
     "test": "istanbul cover --include-all-sources --root ./lib/ jasmine.js"
   },
-  "dependencies": {
-    "lodash": "4.17.10"
-  },
+  "dependencies": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Neatoro/node-sorter.git"
